@@ -1,6 +1,6 @@
-# TrackXpense for Students
+# TrackXpense
 
-A simple and user-friendly finance management website for students to track their spending, income, lending, and subscriptions. The platform is visually appealing, works on all devices (desktop, tablet, mobile), and is easy to use with minimal learning curve.
+A simple and user-friendly finance management website to track their spending, income, lending, and subscriptions. The platform is visually appealing, works on all devices (desktop, tablet, mobile), and is easy to use with minimal learning curve.
 
 ## Features
 
