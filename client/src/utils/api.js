@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api";
+// const API_URL = "http://localhost:5000/api";
+const API_URL = "https://trackxpense-backend.onrender.com/api";
 
 // Create axios instance with base URL
 const api = axios.create({
